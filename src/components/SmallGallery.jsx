@@ -59,7 +59,7 @@ const SmallGallery = () => {
     return () => clearInterval(interval);
   }, []);
   return (
-    <div className="w-full h-full px-5 lg:px-28 pt-3">
+    <div className="w-full h-full px-3 lg:px-28 pt-3">
       <div className="relative w-full h-screen hidden lg:block">
         {images.map((image, index) => (
           <div
