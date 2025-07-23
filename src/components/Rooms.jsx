@@ -27,7 +27,7 @@ const Rooms = () => {
         </Link>
       </div>
 
-      <div className="w-full flex gap-4 items-center">
+      <div className="w-full flex gap-5 items-center">
         <div className="w-full h-[90%]  self-start ">
           <Image
             src="https://res.cloudinary.com/dz7wroord/image/upload/v1752761718/dar_ouzguita/boho_house_24_ysnwlh.jpg"
