@@ -98,23 +98,23 @@ const Toolbar = ({ gallery = false }) => {
               </li>
               <li>
                 <Link href="#about" className="cursor-pointer p-2">
-                  {t("navbar.about")}
+                  {`Boho House`}
                 </Link>
               </li>
 
+              <li>
+                <Link href="/events" className="cursor-pointer p-2">
+                  {t("navbar.events")}
+                </Link>
+              </li>
               <li>
                 <Link href="/gallery" className="cursor-pointer p-2">
                   {t("navbar.gallery")}
                 </Link>
               </li>
               <li>
-                <Link href="#shows" className="cursor-pointer p-2">
-                  {t("navbar.shows")}
-                </Link>
-              </li>
-              <li>
-                <Link href="/contact" className="cursor-pointer p-2">
-                  {t("navbar.contact")}
+                <Link href="/faqs" className="cursor-pointer p-2">
+                  {`FAQs`}
                 </Link>
               </li>
             </ul>
