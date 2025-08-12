@@ -25,7 +25,7 @@ const Loader = () => {
 
   return (
     <>
-      {isClient ? (
+      {isClient && (
         <div className="">
           <Toolbar />
           <Hero />
@@ -39,10 +39,6 @@ const Loader = () => {
           {/*<div className="fixed bottom-5 left-0 w-full block lg:hidden z-10">
             <Buttons />
           </div>*/}
-        </div>
-      ) : (
-        <div className="fixed inset-0 z-40 flex items-center justify-center bg-background">
-          <BounceLoader color="#ad9071" size={100} />
         </div>
       )}
     </>
