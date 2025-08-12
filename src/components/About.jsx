@@ -10,13 +10,13 @@ const About = () => {
     >
       <div className="w-full flex flex-col gap-2 p-3">
         <div className="lg:text-base text-sm  text-primary font-minionPro">
-          {`Our enchanting accommodation`}
+          {t("about.title")}
         </div>
         <div className="lg:text-4xl text-3xl text-secondary font-minionPro pb-2">
-          {`Ready to stay with us ?`}
+          {t("about.title_2")}
         </div>
         <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-          {`Awakening to your own gratitude, discovering a sense of calling, finding deep peace – these moments often bloom in the stillness of unexpected places. Boho House, resting on the sun-kissed shores of Lake Lalla Takerkoust, is such a sanctuary. Here, far from the whirlwind of Marrakech, the lake's tranquil expanse and the raw beauty of the surrounding hills hold a special kind of magic. It’s a place designed not just for rest, but to cradle that fragile feeling of being profoundly lucky. Time slows, the soul breathes, and in the quiet communion with water, sky, and earth, you realize a deep-seated peace was waiting for you all along.`}
+          {t("about.content_1")}
         </p>
       </div>
 

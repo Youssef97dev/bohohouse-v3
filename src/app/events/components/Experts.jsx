@@ -59,22 +59,22 @@ const Experts = () => {
       <div className=" w-full">
         <div className="w-full h-full flex flex-col justify-center items-start gap-1 lg:p-20 p-4 text-primary">
           <h1 className="text-[20px] lg:text-[20px] leading-[28px] tracking-[2px] font-minionPro font-light mb-5 text-bgButton text-justify">
-            {`THE EVENT EXPERTS`}
+            {t("expert.title")}
           </h1>
           <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-            {`At every step of your event preparations, a passionate and highly experienced team is at your disposal, dedicated to making your every wish come true.`}
+            {t("expert.content_1")}
           </p>
           <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-            {`We’ve assembled an incredibly talented team and a stellar roster of professionals we partner with. The goal is to make your event appear effortless, flow smoothly, and become a cherished memory for everyone who attends.`}
+            {t("expert.content_2")}
           </p>
           <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-            {`Each event is designed from the ground up to fit your requirements and weddings for couples from around the world, a sophisticated company retreat, a delightful bat mitzvah, or a sleek business conference. This also includes specialized catering, romantic fresh flower arrangements, brilliant DJs, elegant decorations, and comprehensive technical equipment to cover.`}
+            {t("expert.content_3")}
           </p>
           <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-            {`Personalized service is at the heart of our orgonisation down to the transportation.`}
+            {t("expert.content_4")}
           </p>
           <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-            {`Whether it’s transporting your guests in style or making your arrival unforgettable, we have a fleet of S-Class limousines, Range Rovers, and Mercedes minibuses and coaches at your disposal. Meeting and exceeding your guest's expectations is our priority, they explain, which seems to be the key to their success.`}
+            {t("expert.content_5")}
           </p>
         </div>
       </div>

@@ -1,8 +1,11 @@
 "use client";
 import Image from "next/image";
 import { useEffect, useState } from "react"; // Import hooks for scroll handling
+import { useTranslation } from "react-i18next";
 
 const Hero = () => {
+  const { t } = useTranslation();
+
   const [offsetY, setOffsetY] = useState(0);
 
   useEffect(() => {
@@ -49,7 +52,7 @@ const Hero = () => {
 
       {/* text */}
       <div className="absolute top-1/2 w-full text-center font-sunn text-white text-[45px] lg:text-[75px]">
-        <h1>{`Offering Spectacular Events`}</h1>
+        <h1>{t("events.title")}</h1>
       </div>
 
       {/* Scroll Down Arrow */}

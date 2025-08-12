@@ -13,51 +13,55 @@
     "experience": "Experience the real vibe of Lack Lalla Takerkoust and Agafay Desert",
     "kitchen": "Kitchen"
   },
-  "hero": {
-    "text_1": "Set in front of the breathtaking backdrop of Lac Lalla Takerkoust",
-    "text_2": "A hideaway haven capturing the essence of natural beauty at Lac Lalla Takerkoust"
+  "intro": {
+    "experience": "Experience the real vibe of Lack Lalla Takerkoust and Agafay Desert",
+    "text": "Sometimes, the soul finds its quietest revelation not in the clamor, but in the spacious hush. It arrives unexpectedly, like sunlight catching the ripples on Lake Lalla Takerkoust – a sudden awareness of profound luck, a gentle nudge towards what truly matters. At Boho House, cradled by the vastness of the water and the ancient gaze of the Atlas Mountains, that feeling isn't just left to chance. It's nurtured. In the rhythm of gentle waves, the warmth of earth-toned walls, and the endless sky stretching above the serene lake, peace settles deep within, whispering that you are exactly where you need to be."
   },
   "about": {
-    "title": "Casa Lalla Takerkoust : exquisite cuisine and amazing panoramic view",
-    "content_1": "Casa Lalla welcomes its guests far from the sophistication and hustle and bustle of the city, this haven of peace is the ideal place to indulge in simple pleasures and savor the mild climate.",
-    "content_2": "The decor blends memories and heritage in a simple, quirky atmosphere that exudes the sweet scent of formentera ibiza mykonos.",
-    "content_3": "Much more than a restaurant, this lakeside spot is a veritable living space. Restaurant, bar, swimming pool, private cabanas - everything is designed for relaxing, sharing, celebrating and creating lasting memories.",
-    "content_4": "At casa lalla, you'll experience extravagant moments where the joy of being together and gourmet pleasures suspend the course of time - under the banner of La Dolce Vita and festivities!",
-    "button_book": "Book a table"
+    "title": "Our enchanting accommodation",
+    "title_2": "Ready to stay with us ?",
+    "content_1": "Awakening to your own gratitude, discovering a sense of calling, finding deep peace – these moments often bloom in the stillness of unexpected places. Boho House, resting on the sun-kissed shores of Lake Lalla Takerkoust, is such a sanctuary. Here, far from the whirlwind of Marrakech, the lake's tranquil expanse and the raw beauty of the surrounding hills hold a special kind of magic. It’s a place designed not just for rest, but to cradle that fragile feeling of being profoundly lucky. Time slows, the soul breathes, and in the quiet communion with water, sky, and earth, you realize a deep-seated peace was waiting for you all along."
+  },
+  "rooms": {
+    "title": "Escape to the Extraordinary",
+    "content_1": "Each of The Boho house's seven dwellings was placed with thoughtful intention: maximizing sweeping vistas, capturing optimal shade and shelter, and ensuring absolute seclusion. It’s a place where privacy cradles you, and the day's first sound connects you instantly to the earth's steady heartbeat.",
+    "button": "Book a room"
   },
   "events": {
-    "title": "Casa Lalla is a space for members to eat, drink and celebrate",
-    "content": "the unmatched beauty of our natural landscape is the perfect backdrop for your event or celebration. From weddings, anniversaries and  birthdays to photo shoots and brand events, you can make Casa lalla your own for an unforgettable time. whether intimate or grand, our specially designed experience will ensure your vision comes to life seamlessly."
+    "title_1": "Expand Beyond Your Ruins",
+    "title_2": "Where Magic Meets Celebration",
+    "content_1": "At every step of your event preparations, a passionate and highly experienced team is at your disposal, dedicated to making your every wish come true.",
+    "content_2": "Each event is designed from the ground up to fit your requirements and preferences, whether it’s one of our renowned destination weddings for couples from around the world, a sophisticated company retreat, a delightful bat mitzvah, or a sleek business conference. This also includes specialized halal and kosher catering, romantic fresh flower arrangements, brilliant DJs, elegant decorations, and comprehensive technical equipment to cover all needs.",
+    "button": "View More",
+    "title": "Offering Spectacular Events"
   },
-  "activities": {
-    "title": "Casa Lalla producing unique member experiences",
-    "title_1": "Transportation",
-    "title_4": "Nature Walk / Hike",
-    "title_5": "Horseback Riding",
-    "title_6": "Agafay Desert",
-    "title_7": "Bike Tour",
-    "trans_desc": "Lalla Takerkoust can be reached via taxi or bus.",
-    "quad_desc": "Satisfy your need for speed and adventure with a quad tour around Lalla Takerkoust and take in breathtaking landscapes. Experienced guides will take you off the beaten path at the foothills of the High Atlas Mountains.",
-    "quad_desc_1": "Quad Simple 1 Hour 300dh",
-    "quad_desc_2": "Quad Double 1 Hour 500dh",
-    "quad_desc_3": "Quad Simple 2 Hours 500dh",
-    "quad_desc_4": "Quad Double 2 Hours 800dh",
-    "quad_desc_5": "Buggy 2 Places 1 Hour 800dh",
-    "quad_desc_6": "Buggy 2 Places 2 Hours 1400dh",
-    "jetski_desc": "Get your heart racing with a jet ski adventure as you glide across the scenic Lalla Takerkoust lake and enjoy stunning views of the snow-capped High Atlas Mountains.",
-    "jetski_desc_1": "400dh for 15 Minutes",
-    "hike_desc": "Explore the serene waters of Lalla Takerkoust by foot with an expert guide and discover the vibrant flora and fauna that is found in this diverse landscape. Choose from a leisurely nature walk or venture into the surrounding hillsides for a more rigorous hike. Perfect for birdwatches and photography enthusiasts, this tranquil environment promises a respite from the hustle and bustle of Marrakech life.",
-    "riding_desc": "Experience the magic of horseback riding around the sparkling Lalla Takerkoust lake and discover diverse landscapes as you journey off the beaten path around the lake, the foothills of the High Atlas mountains and the neighboring stone desert of Agafay.",
-    "agafay_desc_1": "Discover the rocky desert of Agafay and find out why it’s one of the Morocco’s favorite playgrounds. Live out your Dune desert dreams and explore by quad, buggy or camel.",
-    "agafay_desc_2": "There is no shortage of activities to enjoy when visiting the neighboring Agafay Desert, only 5 minutes away from Lalla Takerkoust.",
-    "bike_desc": "Explore Lalla Takerkoust on an invigorating bike ride through the Agafay Desert and then arrive at the oasis that is the crystal-clear waters of Lalla Takerkoust lake and the surrounding snow-capped High Atlas Mountains. Get ready for a timeless ride that is sure to provide unforgettable memories!",
-    "book_experience": "Book an Experience"
+  "wedding": {
+    "title": "SPECTACULAR WEDDINGS",
+    "content_1": "Set against the natural backdrop we have orchestrated some of the most spectacular and memorable luxury weddings in Marrakech. Our specialist wedding services are all you need to transform your dream day into a truly special occasion you will treasure forever. Regardless of the size of your event, from the moment you contact us, we work tirelessly to bring your ideas to life, taking care of everything from preparation to last-minute details, allowing you to relax and focus on what truly matters.",
+    "content_2": "Opt to stay at our venue and host your ceremony and celebrations here — even your bachelor party or a day-after spa ritual to recover in style! As with any great event, food is vitally important, and our executive chefs relish the challenge of tailoring a gastronomic experience to your tastes. Whether you choose to work with your own wedding planners and require our assistance or prefer a total event solution, we cover every detail — from food, travel, and drinks to arrangements, music, fireworks, decoration, and even honeymoon planning and execution."
   },
-  "kitchen": {
-    "title": "Shared Plates, Fresh Flavors & Culinary Connections",
-    "content_1": "Like our music, art, and wellbeing explorations, the kitchen at casa lalla thrives on breaking down borders and bringing people together",
-    "content_2": "All dishes are meant to be shared an array of complementary flavours and contrasting textures that honour the freshness of the ingredients.",
-    "content_3": "From delicate raw meze (such as Dry-aged red snapper carpaccio with shaved fennel and lemon oil) to feasting platters (a rack of slow-roast chiken  with or a whole lamb shoulder smoked with vine leaves), the menu riffs on whatever the locals have caught and harvested each day."
+  "section": {
+    "title": "STRAIGHT OUT OF YOUR DREAMS",
+    "content_1": "As For the reception, dare to dream big! we can offer  stunning scenery, guaranteed good weather, sublime sunsets, and an unmistakable energy, making it the perfect choice for your special day.",
+    "content_2": "In addition to a vast range of event spaces, we also offer a selection of rooms and suites. This ensures your guests not only have a wonderful night but also the chance to sleep in luxury, wake up to a rejuvenating breakfast, and enjoy a plethora of amenities with the exemplary warm, professional service for which Marrakech is famous."
+  },
+  "expert": {
+    "title": "THE EVENT EXPERTS",
+    "content_1": "At every step of your event preparations, a passionate and highly experienced team is at your disposal, dedicated to making your every wish come true.",
+    "content_2": "We’ve assembled an incredibly talented team and a stellar roster of professionals we partner with. The goal is to make your event appear effortless, flow smoothly, and become a cherished memory for everyone who attends.",
+    "content_3": "Each event is designed from the ground up to fit your requirements and weddings for couples from around the world, a sophisticated company retreat, a delightful bat mitzvah, or a sleek business conference. This also includes specialized catering, romantic fresh flower arrangements, brilliant DJs, elegant decorations, and comprehensive technical equipment to cover.",
+    "content_4": "Personalized service is at the heart of our orgonisation down to the transportation.",
+    "content_5": "Whether it’s transporting your guests in style or making your arrival unforgettable, we have a fleet of S-Class limousines, Range Rovers, and Mercedes minibuses and coaches at your disposal. Meeting and exceeding your guest's expectations is our priority, they explain, which seems to be the key to their success."
+  },
+  "gallery": {
+    "content_1": "AS ABOVE SO BELOW",
+    "content_2": "HAVEN OF TRANQUILITY",
+    "content_3": "WILDERNESS VALLEY",
+    "content_4": "Offering an authentic taste"
+  },
+  "where": {
+    "title": "Where we are",
+    "content_1": "A 45-minute drive from Marrakech, BOHO HOUSE is located near Lalla Takerkoust, offering scenic lake views and situated close to both the Agafay Desert and the spectacular Atlas Mountains."
   },
   "contact": {
     "title": "Casa lalla takerkoust restaurant",
@@ -71,45 +75,6 @@
     "subject": "Subject",
     "submit": "Send",
     "phone": "Phone"
-  },
-  "rooms": {
-    "title": "Discover Unmatched Comfort by the Shores of Lac Takerkoust",
-    "content_1": "In the heart of atlas mountains and 8 minutes from the agafay desert,  Casa lalla is the latest addition to Marrakech’s thriving restaurants scene with the stunning view of the lake to enjoy exquisite seafood with minimal preparation, Using the best products treated with the greatest respect and expertise.",
-    "content_2": "With an unmatched view on the lake, Casa Lalla Takerkoust is a one of a kind locale offering perfect escape from the hustle and bustle of everyday life. Enjoy breathtaking views, exceptional hospitality, and a range of activities that allow you to immerse yourself in the beauty of the surrounding landscape. Whether you're here for relaxation or adventure, we invite you to experience the magic of Lac Takerkoust.",
-    "button_book": "Book a room",
-    "title_2": "Stay"
-  },
-  "room_one": {
-    "title": "Room 1",
-    "capacity": "Capacity:",
-    "size": "Size:",
-    "description": "Spacious open-plan suite featuring breathtaking views of Takerkoust Lake from the bedroom, while the bathroom offers stunning vistas of the surrounding mountains. Guests can also enjoy picturesque sunset views over the tranquil landscape, creating a perfect retreat in nature.",
-    "price": "From €380",
-    "book": "Book"
-  },
-  "room_two": {
-    "title": "Room 2",
-    "capacity": "Capacity",
-    "size": "Size",
-    "description": "Spacious open-plan suite featuring breathtaking views of Takerkoust Lake from the bedroom, while the bathroom offers stunning vistas of the surrounding mountains. Guests can also enjoy picturesque sunset views over the tranquil landscape, creating a perfect retreat in nature.",
-    "price": "From €380",
-    "book": "Book"
-  },
-  "room_three": {
-    "title": "Room 3",
-    "capacity": "Capacity",
-    "size": "Size",
-    "description": "Spacious open-plan suite featuring breathtaking views of Takerkoust Lake from the bedroom, while the bathroom offers stunning vistas of the surrounding mountains. Guests can also enjoy picturesque sunset views over the tranquil landscape, creating a perfect retreat in nature.",
-    "price": "From €380",
-    "book": "Book"
-  },
-  "room_four": {
-    "title": "Room 4",
-    "capacity": "Capacity",
-    "size": "Size",
-    "description": "Spacious open-plan suite featuring breathtaking views of Takerkoust Lake from the bedroom, while the bathroom offers stunning vistas of the surrounding mountains. Guests can also enjoy picturesque sunset views over the tranquil landscape, creating a perfect retreat in nature.",
-    "price": "From €380",
-    "book": "Book"
   },
   "booking": {
     "title": "Booking Request",

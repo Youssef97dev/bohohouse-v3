@@ -14,16 +14,16 @@ const Rooms = () => {
           {`Rooftop & Sky Bar`}
         </div>*/}
         <div className="lg:text-4xl text-3xl text-secondary font-minionPro pb-2">
-          {`Escape to the Extraordinary`}
+          {t("rooms.title")}
         </div>
         <p className="text-[16px] lg:text-[16px] lg:font-light  tracking-wider leading-[25px] lg:leading-[35px]  text-justify py-1 text-[#564138]">
-          {`Each of The Boho house's seven dwellings was placed with thoughtful intention: maximizing sweeping vistas, capturing optimal shade and shelter, and ensuring absolute seclusion. It’s a place where privacy cradles you, and the day's first sound connects you instantly to the earth's steady heartbeat.`}
+          {t("rooms.content_1")}
         </p>
         <Link
           href="/book-room"
           className="w-[50%] lg:w-[25%] text-left mt-4 py-2 px-8 uppercase tracking-widest border-b border-bgButton text-bgButton text-[12px] leading-[34px] hover:bg-bgButton hover:text-white duration-200 transition-all ease-out"
         >
-          {`Book a room`}
+          {t("rooms.button")}
         </Link>
       </div>
 
